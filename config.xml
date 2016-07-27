@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0" id="org.diemancini.phonegap-app">
+
+	<name>Cenoura</name>
+	<description>
+		Menu do restaurante Cenoura
+	</description>
+
+	<author email="qualqueremail@gmail.com">
+		Diego Martin Mancini
+	</author>
+
+	<icon src="imagens/icon.png" />
+	<gap:splash src="imagens/splash.png" />
+
+	<preference name="orientation" value="portrait"/>
+	<preference name="fullscreen" value="true"/>
+
+	<gap:platform name="android" />
+
+</widget>
